@@ -41,3 +41,6 @@ gem 'tzinfo-data'
 
 # MongoDB
 gem 'mongo_mapper'
+
+# Foundation
+gem 'foundation-rails'
