@@ -38,3 +38,6 @@ gem 'spring',        group: :development
 
 # Fix Windows TimeZone issue
 gem 'tzinfo-data'
+
+# MongoDB
+gem 'mongo_mapper'
